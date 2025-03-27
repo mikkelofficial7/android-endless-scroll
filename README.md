@@ -1,5 +1,9 @@
 # Custom Endless Scroll/Lazy Load Listener attached to Recycle View
 
+Latest stable version:
+
+[![](https://jitpack.io/v/mikkelofficial7/android-endless-scroll.svg)](https://jitpack.io/#mikkelofficial7/android-endless-scroll)
+
 1. Add this gradle in ```build.gradle(:app)``` :
 ```
 dependencies {
