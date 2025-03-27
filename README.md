@@ -24,7 +24,7 @@ repositories {
   maven { url 'https://jitpack.io' }
 }
 ```
-5. In your ```Activity``` or ```Fragment``` class, add this variable:
+3. In your ```Activity``` or ```Fragment``` class, add this variable:
 ```
 private var scrollListener: EndlessScrollListener? = null
 ```
