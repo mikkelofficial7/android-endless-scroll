@@ -20,7 +20,7 @@ publishing {
 
 android {
     namespace = "com.lib.endlessscroll"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         minSdk = 28
